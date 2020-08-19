@@ -1,2 +1,2 @@
 # cucumber-restassured
-# project sample for cucumber-restassured-junit
+ project sample for cucumber-restassured-junit
